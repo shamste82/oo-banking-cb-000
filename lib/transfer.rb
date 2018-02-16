@@ -39,4 +39,5 @@ class Transfer
       self.receiver -= self.amount
       self.sender += self.amount
     end
+  end
 end
